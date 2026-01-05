@@ -1,0 +1,13 @@
+# Space Engineers specific
+*.sbc
+thumb.png
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
